@@ -1,0 +1,25 @@
+(*THIS IS TEST FOR IPZ*)
+
+PROGRAM PR1;
+
+CONST A1 = 2#-10;
+ B1 = '1,4';
+ C1 = '2$EXP(5)';
+ D1 = '1';
+ D2 = - 1;
+ D3 = '$EXP(15)';
+ D4 = ',19';
+VAR VARR, AAAA : INTEGER [1..3,5..15]; CCCC : BLOCKFLOAT[1..10];
+DEFFUNC FUNC1 = 10\5,3;
+PROCEDURE PROC1(VARA,VARB,VARC: SIGNAL COMPLEX INTEGER;);
+PROCEDURE PROC2(VARA,VARB,VARC: SIGNAL FLOAT [1..31];);
+
+BEGIN
+    LINK VARR, 123;
+    LINK AAAA, 224;
+    IN 123;
+    OUT 224;
+END(***sgsdkjhnblfjnl
+    trxdyfugi
+
+*******).

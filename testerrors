@@ -1,0 +1,26 @@
+(*THIS IS TEST FOR IPZ*)
+
+PROGRAM PR1;
+
+CONST A1 = 2#;
+CONST B1 = 1,4';
+CONST C1 = '2$EXP(5);
+CONST D1 = '1';*****
+CONST D2 = ',2';*
+sdcfNST D3 = 'EXP(15)'* )
+CONST D1 = '1';
+CONST D2 = ',2';
+Csdf D3 = '$EXP(15)';
+CONST R = [2..56..7];
+CONST R = [2..7;
+VAR VARR:BLOCKFLOAT;
+DEFFUNC FUNC1 = 10\5,3^;
+PROCEDURE PROC1 VARA,VARB,VARC: SIGNAL,COMPLEX,INTEGER);
+~~~{}
+BEGIN
+    LINK VAR1, 123;
+    IN 351;
+    OUT 429;
+END.
+(********hfvsdbgbknlxdfk*****)
+CONST R100 = [10..15,20..40]
